@@ -9,7 +9,7 @@
 - 📫 How to reach me: [Ping me on LinkedIn!](https://www.linkedin.com/in/1prateekmehra1/)
 - ⚡ Fun fact: I'm also an avid quizzing enthusiast and a rubik's cube speedsolver.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-mehra&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-mehra&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=prateek-mehra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
