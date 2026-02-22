@@ -2,39 +2,59 @@
 
 ML Engineer building privacy-first, real-time computer vision systems.
 
-I design and deploy ML systems that work under real-world constraints — latency, compute, privacy, and scale.
+I design and benchmark machine learning systems that operate under real-world constraints — latency, compute, privacy, and scale.
 
 ---
 
-## Featured Work
+## Core Projects
 
 ### Focusguard
-Real-time posture & fatigue estimation system running entirely on-device.
+Real-time posture and fatigue estimation system running entirely on-device.
 
-- CPU-optimized inference
 - Edge-first architecture (no cloud video streaming)
-- Benchmarking multiple pose estimation backends
-- Production-style modular system design
+- CPU-optimized inference pipeline
+- Modular backend for pose estimation models
+- Production-style system structure
 
 ---
 
-## Areas of Focus
+### NoSlouchBench
+Benchmarking real-time pose estimation backends on edge devices.
 
-- Real-time computer vision pipelines  
-- On-device / edge ML systems  
-- ML system benchmarking & optimization  
-- Production ML deployment  
+- FPS comparison across models
+- CPU and memory profiling
+- Latency measurement under varying workloads
+- Accuracy vs compute trade-off analysis
 
 ---
 
-## Tech Stack
+### jalLijiye
+Context-aware hydration reminder system using real-time object detection.
+
+- Detects presence of person and water bottle
+- Tracks interaction and inactivity windows
+- Rule-based alert triggering logic
+- Designed for lightweight edge deployment
+
+---
+
+## Engineering Focus
+
+- Real-time perception systems
+- Edge ML optimization
+- Benchmark-driven engineering
+- Production ML pipelines
+
+---
+
+## Stack
 
 Python | C++ | Docker | Linux | AWS | GCP  
-Comfortable with Kubernetes, Postgres, system debugging, and large-scale data systems.
+Experience with Kubernetes, Postgres, system-level debugging, and cloud-native ML systems.
 
 ---
 
-## 📬 Contact
+## Contact
 
 LinkedIn: https://www.linkedin.com/in/1prateekmehra1/  
 Email: partumehra@gmail.com
