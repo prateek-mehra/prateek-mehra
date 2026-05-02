@@ -2,7 +2,7 @@
 
 ## Checkout my live projects
 
-[Where did I apply](https://github.com/prateek-mehra/where-did-i-apply): Application tracking over different platforms.
+[Where did I apply](https://github.com/prateek-mehra/where-did-i-apply): Chrome extension for job application tracking over different platforms.
 
 <p align="center">
   <img src="assets/where-did-i-apply-demo.gif" width="1000"/>
