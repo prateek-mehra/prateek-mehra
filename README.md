@@ -2,9 +2,15 @@
 
 ## Checkout my live projects (I use these daily!)
 
+
 [Tree of life](https://tree-of-lifee.vercel.app/): My attempt to get an overview of my life from ground up, using first principles.
 
+![Tree of Life Demo](assets/tree-of-life.png)
+
+
 [Minimal eisenhower](https://minimal-eisenhower.vercel.app/): Simple to-do list app based on the eisenhower matrix framework. 
+
+![Minimal eisenhower Demo](assets/minimal-eisenhower.png)
 
 ## Core Projects
 
