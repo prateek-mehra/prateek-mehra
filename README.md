@@ -1,18 +1,22 @@
 # Prateek Mehra
 
-## Checkout my live projects (I use these daily!)
+## Checkout my live projects
 
+[Where did I apply](https://github.com/prateek-mehra/where-did-i-apply): Application tracking over different platforms.
 
-[Tree of life](https://tree-of-lifee.vercel.app/): My attempt to get an overview of my life from ground up, using first principles.
-
-![Tree of Life Demo](assets/tree-of-life.png)
-
+<p align="center">
+  <img src="assets/where-did-i-apply-demo.gif" width="1000"/>
+</p>
 
 [Minimal eisenhower](https://minimal-eisenhower.vercel.app/): Simple to-do list app based on the eisenhower matrix framework. 
 
 <p align="center">
   <img src="assets/minimal-eisenhower-demo.gif" width="1000"/>
 </p>
+
+[Tree of life](https://tree-of-lifee.vercel.app/): My attempt to get an overview of my life from ground up, using first principles.
+
+![Tree of Life Demo](assets/tree-of-life.png)
 
 ## Core Projects
 
