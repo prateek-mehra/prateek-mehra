@@ -10,7 +10,9 @@
 
 [Minimal eisenhower](https://minimal-eisenhower.vercel.app/): Simple to-do list app based on the eisenhower matrix framework. 
 
-![Minimal eisenhower Demo](assets/minimal-eisenhower.png)
+<p align="center">
+  <img src="assets/minimal-eisenhower-demo.gif" width="1000"/>
+</p>
 
 ## Core Projects
 
